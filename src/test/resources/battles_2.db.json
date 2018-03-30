@@ -1,0 +1,16 @@
+[
+	{
+		"id" : 1,
+		"trainer1Id" : 5,
+		"trainer1SelectedPokemonId" : 28,
+		"trainer2Id" : 2,
+		"trainer2SelectedPokemonId" : 84,
+		"isTrainer1Turn": false
+	}, 
+	{
+		"id" : 2,
+		"trainer1Id" : 3,
+		"trainer2Id" : 6,
+		"isTrainer1Victor": true
+	}
+]
